@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+}
+
+
+.admin-main table{
+    font-weight: 600;
+    color: white;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.admin-main td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #25292c;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+td.title{
+    box-sizing: content-box;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #2d3134;
+}
+
+td.header{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    box-sizing: content-box;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #16b273;
+}
+
